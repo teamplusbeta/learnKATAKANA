@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="RED">#FF0000</color>
+    <color name="GREEN">#00FF00</color>
+    <color name="BLUE">#0000FF</color>
+    <color name="WHITE">#FFFFFF</color>
+    <color name="BLACK">#000000</color>
+
+    <color name="FRAME_GRAY1">#888888</color>
+    <color name="FRAME_GRAY2">#999999</color>
+    <color name="FRAME_GRAY3">#AAAAAA</color>
+    <color name="FRAME_GRAY4">#BBBBBB</color>
+    <color name="FRAME_GRAY5">#CCCCCC</color>
+
+    <color name="HISTORY_GRAY1">#9E9E9E</color>
+    <color name="HISTORY_GRAY2">#AAAAAA</color>
+    <color name="HISTORY_GRAY3">#BBBBBB</color>
+    <color name="HISTORY_GRAY4">#E0E0E0</color>
+    <color name="HISTORY_GRAY5">#F5F5F5</color>
+
+</resources>
